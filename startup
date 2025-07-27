@@ -417,7 +417,7 @@ system.resetProp = function()
         table.insert(enabledMonitors, peripheral.getName(firstMonitor))
     end
     return {
-        userName = "OBSIDIAN",
+        userName = "Obsidian",
         holo_eye_pos = newVec(-3, 0, 0),
         mode = 1,
         HOME = { x = 0, y = 120, z = 0 },
